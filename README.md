@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
-<a href="URL_REDIRECT" target="[[blank](https://aws.amazon.com/tr/architecture/icons/)](https://simpleicons.org/icons/amazonec2.svg)"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="URL_REDIRECT" target="https://aws.amazon.com/tr/architecture/icons/)](https://simpleicons.org/icons/amazonec2.svg"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 
 
