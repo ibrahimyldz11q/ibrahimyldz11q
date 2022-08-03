@@ -9,4 +9,6 @@
 - 🌱 I’m currently learning database :)
 - 💬 Ask me about @ibrahimyldz11q@gmail.com
 - 📫 How to reach me: @ibrahimyldz11q@gmail.com
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimyldz11q)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimyldz11q&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
