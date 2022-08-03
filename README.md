@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning database :)
 - 💬 Ask me about @ibrahimyldz11q@gmail.com
 - 📫 How to reach me: @ibrahimyldz11q@gmail.com
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimyldz11q&show_icons=true&theme=ADD_THEME_HERE" width="400">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimyldz11q)](https://github.com/anuraghazra/github-readme-stats)
