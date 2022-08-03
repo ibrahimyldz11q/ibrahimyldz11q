@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
-<a href="URL_REDIRECT" target="https://aws.amazon.com/tr/architecture/icons/)](https://simpleicons.org/icons/amazonec2.svg"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,postgres,redis,java,cloudflare,docker&theme=light)](https://skills.thijs.gg)
+
 
 
 
