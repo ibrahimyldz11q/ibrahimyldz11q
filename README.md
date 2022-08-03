@@ -1,5 +1,5 @@
 ### Hi there 👋
-![abc](https://user-images.githubusercontent.com/55101344/182727642-937ae68b-eef9-400a-b9f2-3545c478d2f9.gif)
+![giphy (5)](https://user-images.githubusercontent.com/55101344/182727963-f46c369a-a79e-4cdd-93e6-af46ff8e45b4.gif)
 
 - 🔭 I’m currently working on database :)
 - 🌱 I’m currently learning database :)
