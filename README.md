@@ -1,9 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" />
-![amazonaws](https://user-images.githubusercontent.com/55101344/182729151-f59bf8ed-227f-4bef-8319-fc01c8331f2c.svg)
-</a>
+<a href="URL_REDIRECT" target="[blank](https://aws.amazon.com/tr/architecture/icons/)"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 
 
