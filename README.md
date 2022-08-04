@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
 [![My Skills](https://skills.thijs.gg/icons?i=aws,gcp,azure,java,hibernate,idea,mongodb,mysql,postgres,redis,cassandra,cloudflare&theme=light)](https://skills.thijs.gg)
