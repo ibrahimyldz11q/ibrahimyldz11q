@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,postgres,redis,cassandra,cloudflare&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,postgres,redis,cassandra,cloudflare,aws,gcp,azure,java,hibernate,idea&theme=light)](https://skills.thijs.gg)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,java,hibernate,idea&perline=3)](https://skillicons.dev)
 
