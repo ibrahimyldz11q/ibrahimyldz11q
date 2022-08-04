@@ -13,6 +13,7 @@
 - 📫 How to reach me: @ibrahimyldz11q@gmail.com
 
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimyldz11q&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
