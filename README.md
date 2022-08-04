@@ -3,9 +3,6 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=aws,gcp,azure,java,hibernate,idea,mongodb,mysql,postgres,redis,cassandra,cloudflare&theme=light)](https://skills.thijs.gg)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,java,hibernate,idea&perline=3)](https://skillicons.dev)
-
-
 
 - 🔭 I’m currently working on database :)
 - 🌱 I’m currently learning database :)
